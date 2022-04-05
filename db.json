@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "id": 1
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "id": 2
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "id": 3
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "id": 4
+    }
+  ]
+}
